@@ -41,8 +41,10 @@ git push origin matias #Upload sur git les changements.
 git pull origin main #Télécharge les changements faits par les autres.
 ```
 
-## Ordre de commandes
-- Toujours faire un pull du **main**. Après, aller dans sa branch.
+## Ordre de commandes (toujours faites au moment de travailler)
+- Faire un pull du **main**. Après, aller dans sa branch.
 - Travailler dans sa branch.
-- Toujours add, commit et push dans sa branch après le travail.
-*Le nombre de commits ou de push n'est pas important*
+- Add, commit et push dans sa branch après le travail. *Le nombre de commits ou de push n'est pas important*
+- Créer un **pull request**
+- Verifier les **pull request** des autres et les valider si bons, écrire un commentaire si mauvais.
+- Merge to **main**.
