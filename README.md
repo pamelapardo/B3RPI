@@ -32,12 +32,12 @@ Ce repo contient une branch ***main*** pour le document principal et 3 branches 
  Pour valider le travail, les deux **reviewers** doivent valider le commit. Dès qu'il est validé par tous, il faut alors clicker sur **Merge**. Cela mettra à jour le fichier **main** en ajoutant les nouveaux paragraphes validés.
 
 ## Rappel des commandes
-- `git checkout -b matias` #Changer de branch.
-- `git branch` #Savoir dans quel branch on se trouve.
-- `git add .` #Ajoute tous les changements faits dans la branch pour le commit. Le `.` designe le dossier dans lequel on se trouve.
-- `git commit -m '1.1 Titre de la tâche : j'ai fait cela'` #Commit les changements, les sauvegarde. Assigne un titre au commit. Pour être plus descriptifs, le titre du commit doit être le titre de l'Épic et une description courte de ce qu'a été fait.
-- `git push origin matias` #Upload sur git les changements.
-- `git pull origin main` #Télécharge les changements faits par les autres.
+- `git checkout -b matias #Changer de branch.`
+- `git branch #Savoir dans quel branch on se trouve.`
+- `git add . #Ajoute tous les changements faits dans la branch pour le commit. Le `.` designe le dossier dans lequel on se trouve.`
+- `git commit -m '1.1 Titre de la tâche : j'ai fait cela' #Commit les changements, les sauvegarde. Assigne un titre au commit. Pour être plus descriptifs, le titre du commit doit être le titre de l'Épic et une description courte de ce qu'a été fait.`
+- `git push origin matias #Upload sur git les changements.`
+- `git pull origin main #Télécharge les changements faits par les autres.`
 
 ## Ordre de commandes
 - Toujours faire un pull du **main**. Après, aller dans sa branch.
