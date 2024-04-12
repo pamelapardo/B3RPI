@@ -25,7 +25,11 @@ Ici nous expliquerons nos trois rôles respectif comme si nous devions nous pré
 Ici nous introduirons l'entreprise à travers laquelle ce projet sera réalisé comme si nous devions la présenter au client
 
 ## 4.4. Présentation entreprise cliente (s)
-Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.
+(Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.)
+
+Fondée en 2023 par une petite équipe de jeunes developpeurs et  passionnés de cinéma, l'Entreprise **EduLearn** fait une entrée remarquée sur le marché de l'éducation en ligne avec une approche créative. Ayant pour objectif premier de rendre l'apprentissage des differents langues interessante pour tous, leur site web a intègré avec succès des contenus cinématographiques avec des exercices, fusionnant ainsi éducation et divertissement pour une approche pédagogique captivante. EduLearn a connu une ascension fulgurante, ce qui l'a encouragé à envisager l'amélioration de la qualité de ses cours. Aujourd'hui, l'entreprise enregistre plus de 200 connexions par semaine, générant un chiffre d'affaires considérable depuis sa création.
+
+L'année 2024 a commencé très promettante pour EduLearn. Leur participation au **Sommet Entreprises & Croissance** en mars était fructueuse, ils ont raméné chez eux le trophée d'argent ainsi qu'une somme d'argent pour l'investissement. Cette victoire leur a ouvert les portes d'un partenariat avec l'État français, qui a décidé d'allouer des fonds pour répondre à la demande croissante. Cette expansion rapide a mis en évidence la nécessité d'optimiser l'infrastructure informatique, garantissant ainsi une expérience utilisateur fluide et réactive, même en période de forte affluence.
 
 ## 4.5 Interlocuteur client (s)
 Ici nous ferons un rappel des partie prenants côté client, leur rôle et leurs coordonées. Existe réellement en entreprise et sert à se référer au bonnes personnes en cas de besoins.
