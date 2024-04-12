@@ -22,7 +22,17 @@ Ici nous préciserons pourquoi nous avons choisi ce projet, les technologies que
 Ici nous expliquerons nos trois rôles respectif comme si nous devions nous présenter au client.
  
 ## 4.3. Présentation de notre entreprise (s)
-Ici nous introduirons l'entreprise à travers laquelle ce projet sera réalisé comme si nous devions la présenter au client
+Bienvenue chez CloudConsulting, une entreprise en plein essor, composée de sept collaborateurs passionnés spécialisés dans la gestion de projets et la réalisation de chantiers cloud.
+
+Fondée en 2017 par des visionnaires du cloud computing, CloudConsulting s'est rapidement développée pour devenir une équipe aguerrie, engagée, prête à relever les défis les plus complexes avec créativité et compétence.
+
+Notre mission est claire : fournir des solutions personnalisées qui répondent précisément aux exigences spécifiques de nos clients en matière de cloud computing. L'engagement envers l'excellence technique, associé à une approche centrée sur le client, sont les piliers de notre développement.
+
+Nous avons démarré modestement à Lyon avec seulement trois personnes. Aujourd'hui, notre croissance nous a permis d'élargir notre offre et notre portée géographique. CloudConsulting propose désormais une gamme complète de services, y compris la gestion de projets et la mise en œuvre de solutions cloud.
+
+En 2023, nous avons atteint un chiffre d'affaires de 2 millions d'euros, une preuve tangible de la confiance et de la satisfaction de nos clients. Cette réussite résulte de notre dévouement constant à la qualité, à l'innovation, ainsi qu'à l'excellence opérationnelle.
+
+Chez CloudConsulting, nous sommes fiers de notre parcours et prêts à répondre aux besoins émergents de nos clients. Nous sommes impatients de partager notre expertise avec vous et de faciliter votre transition vers le cloud.
 
 ## 4.4. Présentation entreprise cliente (s)
 Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.
