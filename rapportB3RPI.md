@@ -41,6 +41,8 @@ Un bref résumé de leur entreprise, leur domaine d'activité, un petit historiq
 ## 4.5 Interlocuteur client (s)
 Ici nous ferons un rappel des partie prenants côté client, leur rôle et leurs coordonées. Existe réellement en entreprise et sert à se référer au bonnes personnes en cas de besoins.
 
+J'adore les gros poireaux
+
 ## 4.6. Contexte du projet (s)
 Nous détaillerons le résumé de ce pourquoi le client nous à contacter, les enjeux et le contexte de mnière global
 
