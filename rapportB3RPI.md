@@ -12,6 +12,7 @@ Méthode agile, pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet 
 Pour chaque outils, il faut spécifier pourquoi et comment. 
 
 Notion
+Matias
 GitHub
 
 # 4. Cadre du projet
