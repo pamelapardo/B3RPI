@@ -1,7 +1,9 @@
 # 1. Remerciements (h-s)
 
 # 2. Fonctionnement de ce projet (h-s)
-Il faut mettre très tôt la manière avec laquelle on souhaite dérouler ce projet. Il faudra expliquer ici notre système de simulation et hors simulation et pourquoi nous avons fait ça.
+Avant de dévoiler les différents chapitres de notre projet, il nous a semblé nécessaire de l'introduire par l'approche que nous avons choisie pour son organisation. Ce projet de troisième année de bachelor a pour but de mettre en évidence notre capacité d'analyse, notre niveau de technicité, ainsi que notre maîtrise des aspects relatifs à la gestion de projet. Nous sommes conscients du caractère scolaire de cet exercice. Toutefois, dans un contexte réel de gestion de projet, l'architecture proposée ne serait pas applicable et pourrait engendrer des anachronismes, nuisant à l'alignement et à la précision des détails.
+
+Pour aborder ce projet sous un angle le plus réaliste possible, nous avons identifié trois types de chapitres : les parties « simulations », les parties « hors-simulation », et les parties « futur de la simulation ». Chaque type est clairement indiqué dans les titres des chapitres par les mentions « s », « hs », et « fs » respectivement. Les parties simulations sont conçues comme si nous étions au sein de notre entreprise, CloudConsulting, et non plus en tant qu'étudiants d'Isitech. Les parties hors simulation permettent de prendre du recul par rapport à la situation réelle pour discuter et expliquer certains sujets en notre qualité d'étudiants. Enfin, le futur de la simulation envisage le délai de réalisation d'un projet jusqu'à sa réception définitive et permet un retour d'expérience tout en restant dans le cadre de la simulation discutée avec le client. Le projet se révèle ainsi être une simulation réaliste et multi-temporelle d'un autre projet technique.
 
 # 3. Méthodologie projet (h-s)
 
