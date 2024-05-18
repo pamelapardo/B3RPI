@@ -37,7 +37,11 @@ En 2023, nous avons atteint un chiffre d'affaires de 2 millions d'euros, une pre
 Chez CloudConsulting, nous sommes fiers de notre parcours et prêts à répondre aux besoins émergents de nos clients. Nous sommes impatients de partager notre expertise avec vous et de faciliter votre transition vers le cloud.
 
 ## 4.4. Présentation entreprise cliente (s)
-Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.
+(Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.)
+
+Fondée en 2023 par une petite équipe de jeunes developpeurs passionnés de cinéma, l'entreprise **EduLearn** fait une entrée remarquée sur le marché de l'éducation en ligne avec une approche créative. Ayant pour objectif premier de rendre l'apprentissage des differentes langues interessante pour tous, leur site web a intègré avec succès des contenus cinématographiques sous forme d'exercices, fusionnant ainsi éducation et divertissement pour une approche pédagogique captivante. EduLearn a connu une ascension fulgurante. Aujourd'hui, le site enregistre plus de 300 connexions par semaine, générant un chiffre d'affaires de 25 000€ depuis sa création.
+
+L'année 2024 a débuté avec beaucoup de promesses pour EduLearn. Leur participation au **Sommet d'Enterpreneurs & Croissance** en mars était fructueuse, ils ont raméné le trophée d'argent ainsi qu'une somme d'argent pour investir. Cette victoire leur a ouvert les portes d'un partenariat avec l'État français, qui leur a permit d'integrer ses services d'apprentissage en ligne aux programmes de plus de 2 160 élèves dans les 20 écoles pilote.
 
 ## 4.5 Interlocuteur client (s)
 Ici nous ferons un rappel des partie prenants côté client, leur rôle et leurs coordonées. Existe réellement en entreprise et sert à se référer au bonnes personnes en cas de besoins.
