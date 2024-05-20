@@ -11,10 +11,23 @@ Pour aborder ce projet sous un angle le plus réaliste possible, nous avons iden
 Méthode agile, pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet avec une méthode traditionnelle (retour d'experience du projet de l'année précedente)
 
 ## 3.2. Outils de travail (h-s)
-Pour chaque outils, il faut spécifier pourquoi et comment. 
+Pour chaque outils, il faut spécifier pourquoi et comment.
+Pour entreprendre ce projet, nous nous sommes servis d'une liste d'outils qui nous ont facilité la construction de sa colonne vertébrale. Ils nous ont permit de travailler éficacement, de nous organiser correctement en équipe et de déployer notre infrastructure sans nous soucier du temps ou du coût. Dans cette section noys vous présentons ces outils.
 
-Notion
-GitHub
+### Notion
+Pour méner un projet à terme, l'organisation et la repartition de taches priment, et notre formation en Bachelor RPI nous a incités à prendre cette partie sérieusement. Nous avons adopté Notion(1) pour ses capacités en gestion de tâches et collaboration en temps réel. Grâce à cette application, nous avons pu automatiser la création de tâches en sections que nous avons appelées "Épics", divisés aussi en sous tâches. Chaque collaborateur était ainsi assigné à une sous tâche lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
+
+### GitHub / Git
+Github(2) était fondamental pour achevement de ce projet. Offrant un environement de développement collaboratif et de stockage de code, cette plateforme nous a aidé à constituer ce rapport écrit, aussi que le projet technique que vous verrez dans les prochains paragraphes. Sa fonctionnalité de travail en simultané, revue(3) et validation du code par des collegues, nous a permit d'avoir un échange sur la qualité et objectivité de notre travail. Nous avons pu ainsi gravir des échelons en équipe pour aboutir ce projet de fin d'année.
+D'un autre côté, GitHub nous a offert une visualisation de notre travail dans le temps, structurant un historique des versions du projet, idéal pour notre approche IaC(4) (Infrastructure-as-Code) en cas de complications dans le développement.
+
+### AWS
+AWS est la plateforme de services Cloud sur laquelle nous avons basé notre modernisation de SI. Elle offre tous 
+
+OVH (ou autre ? c'est l'infra de base)
+Terraform
+Ansible
+Docker
 
 # 4. Cadre du projet
 ## 4.1. Genèse du projet (h-s)
@@ -100,3 +113,17 @@ Point hors simulation pour expliquer comment la fin du projet c'est terminé, si
 # 14. Conclusion
 
 # 15. Annexe
+
+# 16. Bibliographie
+
+1. "Notion: c'est quoi et comment l'utiliser au quotidien ?".
+   https://www.dixmilleheures.fr/outils/notion
+
+2. "Qu’est-ce Que GitHub ? Présentation de GitHub pour un Débutant".
+   https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/
+
+3. "À propos des demandes de tirage (pull requests)".
+   https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+4. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?".
+   https://www.redhat.com/fr/topics/automation/what-is-infrastructure-as-code-iac
