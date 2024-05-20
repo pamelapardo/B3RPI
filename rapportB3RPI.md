@@ -1,7 +1,9 @@
 # 1. Remerciements (h-s)
 
 # 2. Fonctionnement de ce projet (h-s)
-Il faut mettre très tôt la manière avec laquelle on souhaite dérouler ce projet. Il faudra expliquer ici notre système de simulation et hors simulation et pourquoi nous avons fait ça.
+Avant de dévoiler les différents chapitres de notre projet, il nous a semblé nécessaire de l'introduire par l'approche que nous avons choisie pour son organisation. Ce projet de troisième année de bachelor a pour but de mettre en évidence notre capacité d'analyse, notre niveau de technicité, ainsi que notre maîtrise des aspects relatifs à la gestion de projet. Nous sommes conscients du caractère scolaire de cet exercice. Toutefois, dans un contexte réel de gestion de projet, l'architecture proposée ne serait pas applicable et pourrait engendrer des anachronismes, nuisant à l'alignement et à la précision des détails.
+
+Pour aborder ce projet sous un angle le plus réaliste possible, nous avons identifié trois types de chapitres : les parties « simulations », les parties « hors-simulation », et les parties « futur de la simulation ». Chaque type est clairement indiqué dans les titres des chapitres par les mentions « s », « hs », et « fs » respectivement. Les parties simulations sont conçues comme si nous étions au sein de notre entreprise, CloudConsulting, et non plus en tant qu'étudiants d'Isitech. Les parties hors simulation permettent de prendre du recul par rapport à la situation fictive pour discuter et expliquer certains sujets en notre qualité d'étudiants. Enfin, le futur de la simulation nous permettra, par exemple, d'imaginer le délai de réalisation d'un projet jusqu'à sa réception définitive ou encore, un retour sur l'offre discuté avec le client tout en restant dans le cadre de la simulation. Le projet se révèle ainsi être une simulation réaliste et multi-temporelle d'un autre projet technique.
 
 # 3. Méthodologie projet (h-s)
 
@@ -36,7 +38,11 @@ En 2023, nous avons atteint un chiffre d'affaires de 2 millions d'euros, une pre
 Chez CloudConsulting, nous sommes fiers de notre parcours et prêts à répondre aux besoins émergents de nos clients. Nous sommes impatients de partager notre expertise avec vous et de faciliter votre transition vers le cloud.
 
 ## 4.4. Présentation entreprise cliente (s)
-Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.
+(Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.)
+
+Fondée en 2023 par une petite équipe de jeunes developpeurs passionnés de cinéma, l'entreprise **EduLearn** fait une entrée remarquée sur le marché de l'éducation en ligne avec une approche créative. Ayant pour objectif premier de rendre l'apprentissage des differentes langues interessante pour tous, leur site web a intègré avec succès des contenus cinématographiques sous forme d'exercices, fusionnant ainsi éducation et divertissement pour une approche pédagogique captivante. EduLearn a connu une ascension fulgurante. Aujourd'hui, le site enregistre plus de 300 connexions par semaine, générant un chiffre d'affaires de 25 000€ depuis sa création.
+
+L'année 2024 a débuté avec beaucoup de promesses pour EduLearn. Leur participation au **Sommet d'Enterpreneurs & Croissance** en mars était fructueuse, ils ont raméné le trophée d'argent ainsi qu'une somme d'argent pour investir. Cette victoire leur a ouvert les portes d'un partenariat avec l'État français, qui leur a permit d'integrer ses services d'apprentissage en ligne aux programmes de plus de 2 160 élèves dans les 20 écoles pilote.
 
 ## 4.5 Interlocuteur client (s)
 Ici nous ferons un rappel des partie prenants côté client, leur rôle et leurs coordonées. Existe réellement en entreprise et sert à se référer au bonnes personnes en cas de besoins.
