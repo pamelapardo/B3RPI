@@ -52,6 +52,7 @@ Nous détaillerons le résumé de ce pourquoi le client nous à contacter, les e
 # 5. Cahier de charges (s)
 ## 5.1 Présentation TQC
 ## 5.2 Identification des besoins
+![image des besoins](/3.0.0_Besoins.png)
 ## 5.3 Objectifs
 ## 5.4 Contraintes
 ### 5.4.1 Humaines
