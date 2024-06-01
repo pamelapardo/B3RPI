@@ -14,6 +14,7 @@ Méthode agile, pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet 
 Pour chaque outils, il faut spécifier pourquoi et comment. 
 
 Notion
+Matias
 GitHub
 
 # 4. Cadre du projet
@@ -37,14 +38,15 @@ En 2023, nous avons atteint un chiffre d'affaires de 2 millions d'euros, une pre
 Chez CloudConsulting, nous sommes fiers de notre parcours et prêts à répondre aux besoins émergents de nos clients. Nous sommes impatients de partager notre expertise avec vous et de faciliter votre transition vers le cloud.
 
 ## 4.4. Présentation entreprise cliente (s)
-(Un bref résumé de leur entreprise, leur domaine d'activité, un petit historique et quelques chiffre lié à leur activité.)
+Edulearn est une petite entreprise dynamique fondée en 2021 composée de trois collaborateurs passionnés. Spécialisée dans la formation linguistique en ligne, Edulearn s'est rapidement démarquée grâce à un concept original : l'utilisation de vidéos cinématographiques pour rendre l'apprentissage des langues à la fois ludique et efficace. 
 
-Fondée en 2023 par une petite équipe de jeunes developpeurs passionnés de cinéma, l'entreprise **EduLearn** fait une entrée remarquée sur le marché de l'éducation en ligne avec une approche créative. Ayant pour objectif premier de rendre l'apprentissage des differentes langues interessante pour tous, leur site web a intègré avec succès des contenus cinématographiques sous forme d'exercices, fusionnant ainsi éducation et divertissement pour une approche pédagogique captivante. EduLearn a connu une ascension fulgurante. Aujourd'hui, le site enregistre plus de 300 connexions par semaine, générant un chiffre d'affaires de 25 000€ depuis sa création.
-
-L'année 2024 a débuté avec beaucoup de promesses pour EduLearn. Leur participation au **Sommet d'Enterpreneurs & Croissance** en mars était fructueuse, ils ont raméné le trophée d'argent ainsi qu'une somme d'argent pour investir. Cette victoire leur a ouvert les portes d'un partenariat avec l'État français, qui leur a permit d'integrer ses services d'apprentissage en ligne aux programmes de plus de 2 160 élèves dans les 20 écoles pilote.
+En 2023, Edulearn a réalisé un chiffre d'affaires de 200 000 euros. Le site web de l'entreprise compte plus de 1 500 abonnés actifs, avec une moyenne de 300 connexions quotidiennes, témoignant de l'intérêt croissant des utilisateurs. En 2023, Edulearn a remporté le prestigieux concours national Sommet d'Entrepreneurs & Croissance, consolidant ainsi sa réputation et ouvrant des perspectives prometteuses.
+Depuis sa création, Edulearn n'a cessé de croître et aspire à devenir un acteur central dans le domaine de l'apprentissage en ligne.
 
 ## 4.5 Interlocuteur client (s)
 Ici nous ferons un rappel des partie prenants côté client, leur rôle et leurs coordonées. Existe réellement en entreprise et sert à se référer au bonnes personnes en cas de besoins.
+
+J'adore les gros poireaux
 
 ## 4.6. Contexte du projet (s)
 Nous détaillerons le résumé de ce pourquoi le client nous à contacter, les enjeux et le contexte de mnière global
