@@ -19,7 +19,7 @@ Choisir les bons outils de gestion de projet est crucial pour assurer une planif
 4. Gratuit ou coût réduit
 
 ### Notion
-Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics" et de sectionner ces derniers dans une structure hierarchisé de tâches assigné, où chaque collaborateur est invité à régulièrement mettre à jour son état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, le processus se répétait, et ce jusqu'à la finalisation du projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics" et de sectionner ces derniers dans une structure hierarchisé de tâches assigné, où chaque collaborateur est invité à régulièrement mettre à jour son état d'avancement. Une fois toutes les tâches d'un Epic achevées, Notion nous a permis de répéter le processus de manière automatisé au temps de fois que nécessaire pour finaliser le projet.
 
 #mettre une image des Epics ici.
 
