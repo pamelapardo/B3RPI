@@ -11,23 +11,35 @@ Pour aborder ce projet sous un angle le plus réaliste possible, nous avons iden
 Méthode agile, pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet avec une méthode traditionnelle (retour d'experience du projet de l'année précedente)
 
 ## 3.2. Outils de travail (h-s)
-Pour chaque outils, il faut spécifier pourquoi et comment.
-Pour entreprendre ce projet, nous nous sommes servis d'une liste d'outils qui nous ont facilité la construction de sa colonne vertébrale. Ils nous ont permit de travailler éficacement, de nous organiser correctement en équipe et de déployer notre infrastructure sans nous soucier du temps ou du coût. Dans cette section noys vous présentons ces outils.
+Choisir les bons outils de gestion de projet est crucial pour assurer une planification efficace et une collaboration fluide, menant à la réussite d'un projet. Nos nombreuses expériences en entreprise, combinées à nos années de formation en RPI, nous ont appris l'importance de cette étape. Convaincus par leur importance, nous avons veillé à ne rien laisser au hasard. Voici la liste des caracteristiques qui ont guidé nos choix :
+
+1. Fonctionnalités liées à la rédaction et le travail en équipe en mode Agile : Axé sur la Fonctionnalité
+2. Facilité d'utilisation ou adoptation et automatisation : Axé sur la Gérabilité
+3. Stockage de données : Axé sur la Fiabilité
+4. Gratuit ou coût réduit
 
 ### Notion
-Pour méner un projet à terme, l'organisation et la repartition de taches priment, et notre formation en Bachelor RPI nous a incités à prendre cette partie sérieusement. Nous avons adopté Notion(1) pour ses capacités en gestion de tâches et collaboration en temps réel. Grâce à cette application, nous avons pu automatiser la création de tâches en sections que nous avons appelées "Épics", divisés aussi en sous tâches. Chaque collaborateur était ainsi assigné à une sous tâche lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil nommé Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet Agile. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique de cet environnement découle de la décomposition de ce projet en grands sections, aussi connu sous le nom d'"Epics" dans la méthodologie Scrum(2). Ainsi, un automatisme génère une structure hierarchisé de tâches, où chaque collaborateur est assigné à une petite tâche (ou user story) qui est ensuite lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
+
+#mettre une image des Epics ici.
 
 ### GitHub / Git
-Github(2) était fondamental pour achevement de ce projet. Offrant un environement de développement collaboratif et de stockage de code, cette plateforme nous a aidé à constituer ce rapport écrit, aussi que le projet technique que vous verrez dans les prochains paragraphes. Sa fonctionnalité de travail en simultané, revue(3) et validation du code par des collegues, nous a permit d'avoir un échange sur la qualité et objectivité de notre travail. Nous avons pu ainsi gravir des échelons en équipe pour aboutir ce projet de fin d'année.
-D'un autre côté, GitHub nous a offert une visualisation de notre travail dans le temps, structurant un historique des versions du projet, idéal pour notre approche IaC(4) (Infrastructure-as-Code) en cas de complications dans le développement.
+Mettre le travail realisé à disposition de l'équipe pour une évaluation collective a pour objectif de produire un travail soigné/ de qualité. Incités à rendre cet audit plus fluide, nous avons adopé GitHub(3). Un des outils le plus populaires grâce à sa capacité de versionning et de stockage de code, Github a facilité la constitution de ce rapport avec l'aide la gestion de rôles. Chaque collaborateur avait sa branch pour uploader leur travail, qui était ensuite validé par le reste de l'équipe,
 
-### AWS
-AWS est la plateforme de services Cloud sur laquelle nous avons basé notre modernisation de SI. Elle offre tous 
+Bien qu'il existe plusieurs solutions répondant à nos besoins, nous avons opté pour celle que nous maîtrisions le mieux techniquement, économisant ainsi du temps de découverte et adaptation. GitHub(3) est l'une des plateformes gratuites de développement collaboratif et de stockage de code les plus populaires dans la communauté des développeurs, et même chez certains auteurs. Cette plateforme qu'a répondu à nos besoins, nous a permis de constituer notre rapport écrit de manière efficace, ainsi que le projet technique que vous découvrirez dans les prochains paragraphes. Sa fonctionnalité de travail en simultané, combinée à la revue(4) et à la validation du code par des collègues, a facilité les échanges sur la qualité et l'objectivité de notre travail. Cela nous a permis de progresser en équipe et de mener à bien ce projet de fin d'année.
 
-OVH (ou autre ? c'est l'infra de base)
-Terraform
-Ansible
-Docker
+### VSCode
+Lors du début de rédaction de ce rapport, nous avons adopté Word en tant qu'instrumment d'édition de texte. Cependant, il était vite évidant que la plateforme n'était pas conçue pour un travail collaboratif en temps réel. L'un devait nous permettre de rédiger notre rapport écrit, l'autre, notre projet technique en IaC(5). Après avoir testé des éditeurs populaires comme Word pour la rédaction de ce rapport, nous avons compris que ce n'était pas l'outil ideale pour le travail collaboratif.
+
+### ChatGPT
+L'utilisation de ChatGPT(6) sur un projet peut susciter des préjugés et des réticences, notamment en raison de la perception qu'il pourrait produire des textes impersonnels ou encourager la paresse intellectuelle(7). Cependant, nous avons décidé d'être frontales avec son utilisation. ChatGPT s'est averé un outil de support positif pendant l'élaboration du projet. Il a permit de gagner un temps de travail considérable sur certains points et d'améliorer la rédaction de nos textes. Dans sa fonction d'assistant pour nos idées personneles, il nous a fournit des suggestions grammaticales et des solutions aux problèmes de technique, nous permettant de se concentrer sur des aspects plus importans du projet. De plus, en puisant dans une vaste base de connaissances, ChatGPT peut fournir des informations pertinentes et des solutions, enrichissant ainsi le contenu produit.
+### Word
+
+### Canva
+
+### (peut être) Excel 
+ 
+### 
 
 # 4. Cadre du projet
 ## 4.1. Genèse du projet (h-s)
@@ -115,15 +127,23 @@ Point hors simulation pour expliquer comment la fin du projet c'est terminé, si
 # 15. Annexe
 
 # 16. Bibliographie
-
 1. "Notion: c'est quoi et comment l'utiliser au quotidien ?".
    https://www.dixmilleheures.fr/outils/notion
 
-2. "Qu’est-ce Que GitHub ? Présentation de GitHub pour un Débutant".
+2. "Epics Agile : définition, exemples et modèles"
+   https://www.atlassian.com/fr/agile/project-management/epics#:~:text=Les%20epics%20sont%20un%20moyen,clients%20sur%20une%20base%20r%C3%A9guli%C3%A8re.
+
+3. "Qu’est-ce Que GitHub ? Présentation de GitHub pour un Débutant".
    https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/
 
-3. "À propos des demandes de tirage (pull requests)".
+4. "À propos des demandes de tirage (pull requests)".
    https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
-4. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?".
+5. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?"
    https://www.redhat.com/fr/topics/automation/what-is-infrastructure-as-code-iac
+
+6. "Comment fonctionne ChatGPT ?".
+   https://www.compilatio.net/blog/fonctionnement-chatgpt
+
+7. "ChatGPT : De La Productivité À La Paresse".
+   https://www.parolesdecorse.fr/chatgpt-de-la-productivite-a-la-paresse/
