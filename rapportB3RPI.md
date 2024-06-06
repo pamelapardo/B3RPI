@@ -19,7 +19,7 @@ Choisir les bons outils de gestion de projet est crucial pour assurer une planif
 4. Gratuit ou coût réduit
 
 ### Notion
-Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet Agile. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique de cet environnement découle de la décomposition de ce projet en grands sections, aussi connu sous le nom d'"Epics" dans la méthodologie Scrum(2). Ainsi, un automatisme génère une structure hierarchisé de tâches, où chaque collaborateur est assigné à une petite tâche (ou user story) qui est ensuite lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics" et de sectionner ces derniers dans une structure hierarchisé de tâches assigné, où chaque collaborateur est invité à régulièrement mettre à jour son état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, le processus se répétait, et ce jusqu'à la finalisation du projet.
 
 #mettre une image des Epics ici.
 
@@ -50,12 +50,20 @@ VSCode offre une intégration transparente avec GitHub nous permettant de gérer
 
 ### ChatGPT
 ChatGPT(6) peut susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme une finalité en soi.
+
 ### Word
+
+Nous avons utilisé Word seulement à la toute fin de notre projet, pour mettre en forme avec soin et professionnalisme le rapport que vous êtes actuellement entrain de lire.
 
 ### Canva
 
-### (peut être) Excel 
- 
+Canva est un logiciel de conception graphique en ligne que nous avons utilisé pour créer notre identité visuelle. Les détails constituant la forme est crucial pour en comprendre le fond. L'outil nous à ainsi accompagné pour élaborer la forme et l'esthetisme des différents rendu finaux de notre projet. 
+
+### Excalidraw
+
+Nous avons utilisé ce logiciel de création de schéma en ligne en raison de sa simplicité d'utilisation et des rendus harmonieux qu'il peut générer.
+Les schémas n'ont pas d'équivalent pour vulgariser un système complexe, et c'est une maitrise que nous pensons indispensalbe pour un chef de projet.
+
 ### 
 
 # 4. Cadre du projet
