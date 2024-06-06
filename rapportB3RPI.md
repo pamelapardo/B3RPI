@@ -19,20 +19,37 @@ Choisir les bons outils de gestion de projet est crucial pour assurer une planif
 4. Gratuit ou coût réduit
 
 ### Notion
-Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil nommé Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet Agile. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique de cet environnement découle de la décomposition de ce projet en grands sections, aussi connu sous le nom d'"Epics" dans la méthodologie Scrum(2). Ainsi, un automatisme génère une structure hierarchisé de tâches, où chaque collaborateur est assigné à une petite tâche (ou user story) qui est ensuite lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet Agile. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique de cet environnement découle de la décomposition de ce projet en grands sections, aussi connu sous le nom d'"Epics" dans la méthodologie Scrum(2). Ainsi, un automatisme génère une structure hierarchisé de tâches, où chaque collaborateur est assigné à une petite tâche (ou user story) qui est ensuite lié à un état d'avancement. Une fois les tâches terminées et leur état d'avancement mis à jour, un nouvel Épic était lancé. Ainsi jusqu'à la finalisation du projet.
 
 #mettre une image des Epics ici.
 
 ### GitHub / Git
-Mettre le travail realisé à disposition de l'équipe pour une évaluation collective a pour objectif de produire un travail soigné/ de qualité. Incités à rendre cet audit plus fluide, nous avons adopé GitHub(3). Un des outils le plus populaires grâce à sa capacité de versionning et de stockage de code, Github a facilité la constitution de ce rapport avec l'aide la gestion de rôles. Chaque collaborateur avait sa branch pour uploader leur travail, qui était ensuite validé par le reste de l'équipe,
 
-Bien qu'il existe plusieurs solutions répondant à nos besoins, nous avons opté pour celle que nous maîtrisions le mieux techniquement, économisant ainsi du temps de découverte et adaptation. GitHub(3) est l'une des plateformes gratuites de développement collaboratif et de stockage de code les plus populaires dans la communauté des développeurs, et même chez certains auteurs. Cette plateforme qu'a répondu à nos besoins, nous a permis de constituer notre rapport écrit de manière efficace, ainsi que le projet technique que vous découvrirez dans les prochains paragraphes. Sa fonctionnalité de travail en simultané, combinée à la revue(4) et à la validation du code par des collègues, a facilité les échanges sur la qualité et l'objectivité de notre travail. Cela nous a permis de progresser en équipe et de mener à bien ce projet de fin d'année.
+Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la rédaction de notre rapport, nous avons utilisé GitHub. 
+
+La plateforme s'est avéré être un atout majeur combinant plusieurs fonctionnalitées essentielles à notre démarche ; 
+- Regroupement et unification des livrables
+- Permettre le travail individuel dans une "branche" à part du tronc commun
+- Relecture intelligente des écrits des membres du groupe avant unification 
+- Enregistrement des mises à jour apportés systématique
+- Possibilité de revenir à n'importe quelle version
+
+L’utilisation de cet outil nous a contraints à adopter un format de fichier qui laisse le contenu en clair, similaire à un code non compilé. C’est pourquoi nous avons choisi Markdown, spécialement conçu à cet effet
 
 ### VSCode
-Lors du début de rédaction de ce rapport, nous avons adopté Word en tant qu'instrumment d'édition de texte. Cependant, il était vite évidant que la plateforme n'était pas conçue pour un travail collaboratif en temps réel. L'un devait nous permettre de rédiger notre rapport écrit, l'autre, notre projet technique en IaC(5). Après avoir testé des éditeurs populaires comme Word pour la rédaction de ce rapport, nous avons compris que ce n'était pas l'outil ideale pour le travail collaboratif.
+Nous avons choisi Visual Studio Code (VSCode) comme outil mutualisant plusieurs rôles utiles à la rédaction de notre rapport ;
+
+**Rédaction en Markdown :**
+VSCode prend en charge la rédaction de documents au format Markdown. Nous avons pu éditer notre rapports directement dans l’éditeur, en utilisant la syntaxe Markdown pour formater le texte, ajouter des liens, des images, etc.
+
+**Visualisation en direct du rendu :**
+L’extension “Live Preview” de VSCode nous a permis de voir instantanément le rendu de nos documents Markdown pendant l'édition. Cela à facilité la vérification de la mise en page sans avoir à basculer entre l’éditeur et un aperçu externe.
+
+**Intégration avec GitHub :**
+VSCode offre une intégration transparente avec GitHub nous permettant de gérer nos dépôts, effectuer des commits, des pulls et des pushes directement depuis l’interface de l’éditeur.
 
 ### ChatGPT
-L'utilisation de ChatGPT(6) sur un projet peut susciter des préjugés et des réticences, notamment en raison de la perception qu'il pourrait produire des textes impersonnels ou encourager la paresse intellectuelle(7). Cependant, nous avons décidé d'être frontales avec son utilisation. ChatGPT s'est averé un outil de support positif pendant l'élaboration du projet. Il a permit de gagner un temps de travail considérable sur certains points et d'améliorer la rédaction de nos textes. Dans sa fonction d'assistant pour nos idées personneles, il nous a fournit des suggestions grammaticales et des solutions aux problèmes de technique, nous permettant de se concentrer sur des aspects plus importans du projet. De plus, en puisant dans une vaste base de connaissances, ChatGPT peut fournir des informations pertinentes et des solutions, enrichissant ainsi le contenu produit.
+ChatGPT(6) peut susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme une finalité en soi.
 ### Word
 
 ### Canva
