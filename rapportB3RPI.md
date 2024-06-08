@@ -24,23 +24,21 @@ Portés à optimiser notre travail collaboratif, nos recherches ont convergé ve
 #mettre une image des Epics ici.
 
 ### GitHub / Git
-Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la rédaction de notre rapport, nous avons utilisé GitHub. Étant familiers avec la plateforme, nous savions à quel point ces fonctionnalités seraient bénéfiques pour notre projet :
+Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la rédaction de notre rapport, nous avons utilisé GitHub(3). Étant familiers avec la plateforme, nous savions à quel point ces fonctionnalités seraient bénéfiques pour notre projet :
 - Regroupement et unification des livrables
 - Permettre le travail individuel dans une "branche" à part du tronc commun (ref bibliographie)
 - Revision intelligente des écrits des membres du groupe avant validation (ref bibliographie)
 - Enregistrement des mises à jour apportés systématique (ref bibliographie) ?????
 - Possibilité de revenir à n'importe quelle version (ref bibliographie)
 
-Nous avions connaissance que l'adoption de cet outil impliquait la mise en place d'un nouveau cadre de travail, où Git et VSCode jouent un rôle central. GitHub a été spécialement conçu pour les langages de programmation, c'est pourquoi nous avons choisi de rédiger en Markdown sur VSCode, et de utiliser Word pour la partie esthétique du rapport.
+Nous avions connaissance que l'utilisation de cet outil impliquerait l'adoption d'une nouvelle modalité, où Git et VSCode joueraient un rôle central. Étant donné que GitHub est un outil conçu pour le développement de code, nous avons souhaité rester cohérents avec son utilisation, employant ainsi le langage Markdown.
 
 ### Visual Studio Code
-Dans la modalité de travail avec Github, VSCode a joué le role d'outil de rédaction. Voici les points forts pour la rédaction de notre rapport:
+Dans la modalité de travail avec Github, VSCode a exercé la fonction d'outil de rédaction. Destiné à l'édition de code, il prend en charge plusieurs centaines de langages de programmation, y compris Markdown. Voici ses forces dans la rédaction de notre rapport:
 
-**Rédaction en Markdown :**
-Nous avons pu éditer facilement notre rapport directement dans l’éditeur, en utilisant le langage Markdown. Une de ses avantages est sa capacité à gérer le style du texte, d'ajouter des liens, des images, etc. Tout comme un éditeur de texte classique.
+**Rédaction en Markdown :** L'environnement de développement simple de VSCode a rendu confortable la rédaction en Markdown. Tout comme un éditeur de texte classique, nous avons pu éditer le texte, ajouter des liens, des images, etc.
 
-**Visualisation en direct du rendu :**
-L’extension “Live Preview”, analysait et comprennait instantanément la syntaxe Markdown, créant ainsi la page visuellement agréable. Cela à facilité la vérification de la mise en page.
+**Visualisation en direct du rendu :** L’extension “Live Preview” analysait et convertissait instantanément la syntaxe Markdown en format HTML, plus agrèable à l'oeil humain. Cela à facilité la vérification du layout et la correction du texte.
 
 **Intégration avec GitHub :**
 VSCode offre une intégration transparente avec GitHub nous permettant de gérer nos branches, effectuer des commits, des pulls et des pushes directement depuis l’interface de l’éditeur.
@@ -49,10 +47,10 @@ VSCode offre une intégration transparente avec GitHub nous permettant de gérer
 Il est possible que ChatGPT(6) puisse susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme un outil de géneration de texte.
 
 ### Word
-Nous avons exploité Word seulement à la toute fin de notre projet. Le contenu du rapport étant déjà achevé, Word a contribué avec sa mise en forme soignée et professionnelle, en veillant à ce que chaque détail soit correctement présenté et que le document reflète le sérieux et la rigueur de notre travail.
+Nous avons exploité Word seulement à la toute fin de notre projet. Le contenu du rapport étant déjà achevé, Word a rendu sa présentation plus esthétiquement agreable, en veillant à ce que le document reflète le sérieux de notre travail.
 
 ### Excalidraw
-Décoder des systèmes difficiles est une maitrise que nous pensons indispensalbe pour un chef de projet. C'est pour cela qu'Excalidraw(8) s'est révélé extrêmement utile. La simplicité avec laquelle nous avons pu créer des schemas était essentiel pour vulgariser un système qui, expliqué autrement, aurait pu sembler très complexe. Grâce à Excalidraw, nous avons pu illustrer visuellement des concepts difficiles, facilitant ainsi la compréhension pour tous les membres de l'équipe et les parties prenantes.
+Les schémas n'ont pas d'équivalent pour vulgariser un système complexe, et c'est une maitrise que nous pensons indispensalbe pour un chef de projet. Pour atteindre ce niveau de communication, Excalidraw(8) s'est révélé extrêmement utile. En addition à sa simplicité d'usage, elle facilite l'exportation des rendus en PNG ou JPG.
 
 # 4. Cadre du projet
 ## 4.1. Genèse du projet (h-s)
