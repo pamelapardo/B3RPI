@@ -8,7 +8,7 @@ Pour aborder ce projet sous un angle le plus réaliste possible, nous avons iden
 # 3. Méthodologie projet (h-s)
 
 ## 3.1. Choix méthode de gestion de projet (h-s)
-Méthode agile, pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet avec une méthode traditionnelle (retour d'experience du projet de l'année précedente)
+Méthode agile (1), pourquoi? Pourquoi est-ce une mauvaise idée de faire ce projet avec une méthode traditionnelle (retour d'experience du projet de l'année précedente)
 
 ## 3.2. Outils de travail (h-s)
 Choisir les bons outils de gestion de projet est crucial pour assurer une planification efficace et une collaboration fluide, menant à la réussite d'un projet. Nos nombreuses expériences en entreprise, combinées à nos années de formation en RPI, nous ont appris l'importance de cette étape. Convaincus par leur importance, nous avons veillé à ne rien laisser au hasard. Voici la liste des caracteristiques qui ont guidé nos choix :
@@ -19,7 +19,7 @@ Choisir les bons outils de gestion de projet est crucial pour assurer une planif
 4. Gratuit ou coût réduit
 
 ### Notion
-Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics", et de sectionner ces derniers en plusieurs tâches. Chaque collaborateur se voit s'assigner une tâche et est régulièrement invité à mettre à jour son état d'avancement. Notion nous a permis d'automatiser ce processus autant de fois que nécessaire pour finaliser le projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(2). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics", et de sectionner ces derniers en plusieurs tâches. Chaque collaborateur se voit s'assigner une tâche et est régulièrement invité à mettre à jour son état d'avancement. Notion nous a permis d'automatiser ce processus autant de fois que nécessaire pour finaliser le projet.
 
 #mettre une image des Epics ici.
 
@@ -31,10 +31,10 @@ Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la réd
 - Enregistrement des mises à jour apportés systématique (ref bibliographie) ?????
 - Possibilité de revenir à n'importe quelle version (ref bibliographie)
 
-Nous avions connaissance que l'utilisation de cet outil impliquerait l'adoption d'une nouvelle modalité, où Git et VSCode joueraient un rôle central. Étant donné que GitHub est un outil conçu pour le développement de code, nous avons souhaité rester cohérents avec son utilisation, employant ainsi le langage Markdown.
+Nous avions connaissance que l'utilisation de cet outil impliquerait l'adoption d'une nouvelle modalité, où Git et VSCode joueraient un rôle central. Étant donné que GitHub est un outil conçu pour le développement de code, nous avons souhaité rester cohérents avec son utilisation, employant ainsi le langage Markdown. Markdown est un langage multiplateforme, léger et souvent utilsé pour la rédaction de documentations(4), était parfaitement adapté pour notre cas d'usage.
 
 ### Visual Studio Code
-Dans la modalité de travail avec Github, VSCode a exercé la fonction d'outil de rédaction. Destiné à l'édition de code, il prend en charge plusieurs centaines de langages de programmation, y compris Markdown. Voici ses forces dans la rédaction de notre rapport:
+Dans la modalité de travail avec Github, VSCode a exercé la fonction d'outil de rédaction. Destiné à l'édition de code, il prend en charge plusieurs centaines de langages de programmation(5), y compris Markdown. Voici ses forces dans la rédaction de notre rapport:
 
 **Rédaction en Markdown :** L'environnement de développement simple de VSCode a rendu confortable la rédaction en Markdown. Tout comme un éditeur de texte classique, nous avons pu éditer le texte, ajouter des liens, des images, etc.
 
@@ -44,13 +44,13 @@ Dans la modalité de travail avec Github, VSCode a exercé la fonction d'outil d
 VSCode offre une intégration transparente avec GitHub nous permettant de gérer nos branches, effectuer des commits, des pulls et des pushes directement depuis l’interface de l’éditeur.
 
 ### ChatGPT
-Il est possible que ChatGPT(6) puisse susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme un outil de géneration de texte.
+Il est possible que ChatGPT puisse susciter certaines réserves objectivement justifiées(6) et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme un outil de géneration de texte.
 
 ### Word
 Nous avons exploité Word seulement à la toute fin de notre projet. Le contenu du rapport étant déjà achevé, Word a rendu sa présentation plus esthétiquement agreable, en veillant à ce que le document reflète le sérieux de notre travail.
 
 ### Excalidraw
-Les schémas n'ont pas d'équivalent pour vulgariser un système complexe, et c'est une maitrise que nous pensons indispensalbe pour un chef de projet. Pour atteindre ce niveau de communication, Excalidraw(8) s'est révélé extrêmement utile. En addition à sa simplicité d'usage, elle facilite l'exportation des rendus en PNG ou JPG.
+Les schémas n'ont pas d'équivalent pour vulgariser un système complexe, et c'est une maitrise que nous pensons indispensalbe pour un chef de projet. Pour atteindre ce niveau de communication, Excalidraw(7) s'est révélé extrêmement utile. En addition à sa simplicité d'usage, elle facilite l'exportation des rendus en PNG ou JPG.
 
 # 4. Cadre du projet
 ## 4.1. Genèse du projet (h-s)
@@ -140,23 +140,29 @@ Point hors simulation pour expliquer comment la fin du projet c'est terminé, si
 # 15. Annexe
 
 # 16. Bibliographie
-1. "Notion: c'est quoi et comment l'utiliser au quotidien ?".
-   https://www.dixmilleheures.fr/outils/notion
-
-2. "Epics Agile : définition, exemples et modèles".
+1. "Epics Agile : définition, exemples et modèles".
    https://www.atlassian.com/fr/agile/project-management/epics#:~:text=Les%20epics%20sont%20un%20moyen,clients%20sur%20une%20base%20r%C3%A9guli%C3%A8re.
+
+2. "Notion: c'est quoi et comment l'utiliser au quotidien ?".
+   https://www.dixmilleheures.fr/outils/notion
 
 3. "Qu’est-ce Que GitHub ? Présentation de GitHub pour un Débutant".
    https://kinsta.com/fr/base-de-connaissances/base-de-connaissances-github/
 
-4. "À propos des demandes de tirage (pull requests)".
+4. "Pourquoi utiliser Markdown".
+   https://www.markdownguide.org/getting-started/#why-use-markdown
+
+5. "Découvrir Visual Studio Code".
+   https://www.blogdumoderateur.com/tools/visual-studio-code/
+
+?. "À propos des demandes de tirage (pull requests)".
    https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
-5. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?".
+?. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?".
    https://www.redhat.com/fr/topics/automation/what-is-infrastructure-as-code-iac
 
-6. "Comment fonctionne ChatGPT ?".
-   https://www.compilatio.net/blog/fonctionnement-chatgpt
-
-7. "ChatGPT : De La Productivité À La Paresse".
+6. "ChatGPT : De La Productivité À La Paresse".
    https://www.parolesdecorse.fr/chatgpt-de-la-productivite-a-la-paresse/
+
+7. "Excalidraw – Réalisez de beaux schémas directement dans votre navigateur"
+   https://korben.info/excalidraw.html
