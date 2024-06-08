@@ -19,52 +19,40 @@ Choisir les bons outils de gestion de projet est crucial pour assurer une planif
 4. Gratuit ou coût réduit
 
 ### Notion
-Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics" et de sectionner ces derniers dans une structure hierarchisé de tâches assigné, où chaque collaborateur est invité à régulièrement mettre à jour son état d'avancement. Une fois toutes les tâches d'un Epic achevées, Notion nous a permis de répéter le processus de manière automatisé au temps de fois que nécessaire pour finaliser le projet.
+Portés à optimiser notre travail collaboratif, nos recherches ont convergé vers l'outil Notion(1). Notion est une solution pensé pour être simple et pratique, largement apprécié dans le monde de la gestion de projet. Son concept, basé sur la création de modules personnalisables, nous a permi de fabriquer notre propre espace de travail optimisé pour la gestion et l'atribution de tâches. La logique à été de décomposer le projet en grandes sections, aussi connu sous le nom d'"Epics", et de sectionner ces derniers en plusieurs tâches. Chaque collaborateur se voit s'assigner une tâche et est régulièrement invité à mettre à jour son état d'avancement. Notion nous a permis d'automatiser ce processus autant de fois que nécessaire pour finaliser le projet.
 
 #mettre une image des Epics ici.
 
 ### GitHub / Git
-
-Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la rédaction de notre rapport, nous avons utilisé GitHub. 
-
-La plateforme s'est avéré être un atout majeur combinant plusieurs fonctionnalitées essentielles à notre démarche ; 
+Cherchant à étendre le fonctionnement de la méthode Agile jusque dans la rédaction de notre rapport, nous avons utilisé GitHub. Étant familiers avec la plateforme, nous savions à quel point ces fonctionnalités seraient bénéfiques pour notre projet :
 - Regroupement et unification des livrables
-- Permettre le travail individuel dans une "branche" à part du tronc commun
-- Relecture intelligente des écrits des membres du groupe avant unification 
-- Enregistrement des mises à jour apportés systématique
-- Possibilité de revenir à n'importe quelle version
+- Permettre le travail individuel dans une "branche" à part du tronc commun (ref bibliographie)
+- Revision intelligente des écrits des membres du groupe avant validation (ref bibliographie)
+- Enregistrement des mises à jour apportés systématique (ref bibliographie) ?????
+- Possibilité de revenir à n'importe quelle version (ref bibliographie)
 
-L’utilisation de cet outil nous a contraints à adopter un format de fichier qui laisse le contenu en clair, similaire à un code non compilé. C’est pourquoi nous avons choisi Markdown, spécialement conçu à cet effet
+Nous avions connaissance que l'adoption de cet outil impliquait la mise en place d'un nouveau cadre de travail, où Git et VSCode jouent un rôle central. GitHub a été spécialement conçu pour les langages de programmation, c'est pourquoi nous avons choisi de rédiger en Markdown sur VSCode, et de utiliser Word pour la partie esthétique du rapport.
 
-### VSCode
-Nous avons choisi Visual Studio Code (VSCode) comme outil mutualisant plusieurs rôles utiles à la rédaction de notre rapport ;
+### Visual Studio Code
+Dans la modalité de travail avec Github, VSCode a joué le role d'outil de rédaction. Voici les points forts pour la rédaction de notre rapport:
 
 **Rédaction en Markdown :**
-VSCode prend en charge la rédaction de documents au format Markdown. Nous avons pu éditer notre rapports directement dans l’éditeur, en utilisant la syntaxe Markdown pour formater le texte, ajouter des liens, des images, etc.
+Nous avons pu éditer facilement notre rapport directement dans l’éditeur, en utilisant le langage Markdown. Une de ses avantages est sa capacité à gérer le style du texte, d'ajouter des liens, des images, etc. Tout comme un éditeur de texte classique.
 
 **Visualisation en direct du rendu :**
-L’extension “Live Preview” de VSCode nous a permis de voir instantanément le rendu de nos documents Markdown pendant l'édition. Cela à facilité la vérification de la mise en page sans avoir à basculer entre l’éditeur et un aperçu externe.
+L’extension “Live Preview”, analysait et comprennait instantanément la syntaxe Markdown, créant ainsi la page visuellement agréable. Cela à facilité la vérification de la mise en page.
 
 **Intégration avec GitHub :**
-VSCode offre une intégration transparente avec GitHub nous permettant de gérer nos dépôts, effectuer des commits, des pulls et des pushes directement depuis l’interface de l’éditeur.
+VSCode offre une intégration transparente avec GitHub nous permettant de gérer nos branches, effectuer des commits, des pulls et des pushes directement depuis l’interface de l’éditeur.
 
 ### ChatGPT
-ChatGPT(6) peut susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme une finalité en soi.
+Il est possible que ChatGPT(6) puisse susciter certaines réserves objectivement justifiées et nous tenons à clarifier que son utilisation à été réduite a des fins de peaufinage, principalement pour les reformulations et les recherches, et non comme un outil de géneration de texte.
 
 ### Word
-
-Nous avons utilisé Word seulement à la toute fin de notre projet, pour mettre en forme avec soin et professionnalisme le rapport que vous êtes actuellement entrain de lire.
-
-### Canva
-
-Canva est un logiciel de conception graphique en ligne que nous avons utilisé pour créer notre identité visuelle. Les détails constituant la forme est crucial pour en comprendre le fond. L'outil nous à ainsi accompagné pour élaborer la forme et l'esthetisme des différents rendu finaux de notre projet. 
+Nous avons exploité Word seulement à la toute fin de notre projet. Le contenu du rapport étant déjà achevé, Word a contribué avec sa mise en forme soignée et professionnelle, en veillant à ce que chaque détail soit correctement présenté et que le document reflète le sérieux et la rigueur de notre travail.
 
 ### Excalidraw
-
-Nous avons utilisé ce logiciel de création de schéma en ligne en raison de sa simplicité d'utilisation et des rendus harmonieux qu'il peut générer.
-Les schémas n'ont pas d'équivalent pour vulgariser un système complexe, et c'est une maitrise que nous pensons indispensalbe pour un chef de projet.
-
-### 
+Décoder des systèmes difficiles est une maitrise que nous pensons indispensalbe pour un chef de projet. C'est pour cela qu'Excalidraw(8) s'est révélé extrêmement utile. La simplicité avec laquelle nous avons pu créer des schemas était essentiel pour vulgariser un système qui, expliqué autrement, aurait pu sembler très complexe. Grâce à Excalidraw, nous avons pu illustrer visuellement des concepts difficiles, facilitant ainsi la compréhension pour tous les membres de l'équipe et les parties prenantes.
 
 # 4. Cadre du projet
 ## 4.1. Genèse du projet (h-s)
@@ -157,7 +145,7 @@ Point hors simulation pour expliquer comment la fin du projet c'est terminé, si
 1. "Notion: c'est quoi et comment l'utiliser au quotidien ?".
    https://www.dixmilleheures.fr/outils/notion
 
-2. "Epics Agile : définition, exemples et modèles"
+2. "Epics Agile : définition, exemples et modèles".
    https://www.atlassian.com/fr/agile/project-management/epics#:~:text=Les%20epics%20sont%20un%20moyen,clients%20sur%20une%20base%20r%C3%A9guli%C3%A8re.
 
 3. "Qu’est-ce Que GitHub ? Présentation de GitHub pour un Débutant".
@@ -166,7 +154,7 @@ Point hors simulation pour expliquer comment la fin du projet c'est terminé, si
 4. "À propos des demandes de tirage (pull requests)".
    https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
-5. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?"
+5. "L'IaC (Infrastructure-as-Code), qu'est-ce que c'est ?".
    https://www.redhat.com/fr/topics/automation/what-is-infrastructure-as-code-iac
 
 6. "Comment fonctionne ChatGPT ?".
